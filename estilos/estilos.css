@@ -39,6 +39,25 @@ label {
     margin-bottom: 6px;
 }
 
+/*Cambio aplicado por mí (Arkaitz jimenez)*/
+.opcion-radio{
+    display:flex;
+    align-items:center;
+    gap:8px;
+}
+
+/*Cambio aplicado por mí (Arkaitz jimenez)*/
+.opcion-radio input[type="radio"]{
+    width:auto;
+}
+
+/*Cambio aplicado por mí (Arkaitz jimenez)*/
+.opcion-radio input[type="checkbox"]{
+    width:auto;
+}
+
+
+
 input, select, textarea {
     width: 100%;
     box-sizing: border-box;
